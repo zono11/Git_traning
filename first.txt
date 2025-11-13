@@ -6,3 +6,4 @@ git rm
 git status
 git diff
 コードエディタで変更しました
+もう一回ためしてみました
